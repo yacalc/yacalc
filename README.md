@@ -1,2 +1,2 @@
 # yacalc
-Special repository to display the READM.
+Yet Another Calculator
